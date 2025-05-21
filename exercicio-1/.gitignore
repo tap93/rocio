@@ -1,7 +1,8 @@
-
-node_modules/
+# Ignorar archivos de configuracion
 .vscode/
 .DS_Store
+Thumbs.db
+
 
 
 #temporais
