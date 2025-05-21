@@ -1,0 +1,9 @@
+{
+  "name": "formulario-bootstrap",
+  "version": "1.0.0",
+  "description": "Formulario validado con Bootstrap",
+  "author": "ROCIO DIAZ",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
