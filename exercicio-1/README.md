@@ -26,5 +26,5 @@ Crear un formulario HTML funcional y validado con Bootstrap 5, con un diseño re
 
 ## Links
 
-- [Repositorio en GitHub](https://github.com/usuario/rocio)
-- [Formulario en GitHub Pages](https://usuario.github.io/rocio)
+- [Repositorio en GitHub](https://github.com/tap93/rocio.git)
+- [Formulario en GitHub Pages](https://tap93.github.io/rocio/)
